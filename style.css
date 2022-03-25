@@ -1,0 +1,15 @@
+
+h1,h2{
+    text-align: center;
+}
+
+#form1{
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 800px;
+    display: block;
+    margin: auto;
+}
